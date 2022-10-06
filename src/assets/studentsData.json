@@ -1,0 +1,18 @@
+[
+    {
+        "name": "John",
+        "mobile": 123456789,
+        "address": "Kharadi,pune",
+        "skills": "jimnastic",
+        "hobbies": "Reading ,Singing",
+        "photo": ""
+    },
+    {
+        "name": "Imran",
+        "mobile": 123456789,
+        "address": "Sasvad,pune",
+        "skills": "Badminton",
+        "hobbies": "Reading ,Singing",
+        "photo": ""
+    }
+]
